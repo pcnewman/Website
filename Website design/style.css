@@ -50,6 +50,11 @@ img
 height: auto;
 padding: 0%;}
 
+.dog
+{width: 98%;
+height: auto;
+padding: 0%;}
+
 .diner
 {width: 80%;
 height: auto;
@@ -278,3 +283,24 @@ margin-right: 1%;}
            .button2:hover {
              background-color: #2D6A4F;
              color: #52B788;}
+             .button3
+               {background-color: #52B788;
+                 border: 5px solid black;
+                 color: black;
+                 font-weight: bolder;
+                 padding: 10% 18%;
+                 text-align: center;
+                 text-decoration: none;
+                 display: inline-block;
+                 font-size: 200%;
+                 margin-left: 23%;
+                 margin-right:19%;
+                 margin-bottom: 3%;
+                 margin-top: 2%;}
+
+                       .button3{
+                          transition-duration: 0.2s;}
+
+                        .button3:hover {
+                          background-color: #2D6A4F;
+                          color: #52B788;}
