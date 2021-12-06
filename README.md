@@ -1,5 +1,4 @@
 # Website
-website for composing digital media
 For my website, I wanted to create a portfolio to display all the work I have accomplished in my Composing Digital Media class. 
 I have a welcome page to introduce my site and then also an about me page so user's can get to know a little more about me. 
 I then created pages for both my projects, my soundscape and visual argument. I also wanted to make my website clean and simple.  
